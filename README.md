@@ -36,3 +36,10 @@ ORIGINAL
 
 <img width="500" src="https://user-images.githubusercontent.com/44941601/78864833-6f95b300-7a77-11ea-81d0-3397f66bd0a2.jpg">
 
+<hr>
+
+🔧開発情報
+---------
+
+制作時期　:2020/04/06~2020/04/09  
+使用ツール :  PyCharm, CV2, Python3, Pythonのmultiprocessing
