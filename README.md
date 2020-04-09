@@ -43,3 +43,5 @@ ORIGINAL
 
 制作時期　:2020/04/06~2020/04/09  
 使用ツール :  PyCharm, CV2, Python3, Pythonのmultiprocessing
+
+<hr/>
