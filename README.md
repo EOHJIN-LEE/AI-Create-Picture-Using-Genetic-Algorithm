@@ -6,7 +6,7 @@
 reference
 --------
 
-理論 : https://www.youtube.com/watch?v=D83fOfUs6Fg  
+理論 : https://www.youtube.com/watch?v=D83fOfUs6Fg, https://www.youtube.com/watch?v=D83fOfUs6Fg  
 モチーフ : https://www.youtube.com/watch?v=pMRyXcxeic4, https://www.youtube.com/watch?v=bcf_UEe1bY4
 
 ソースコード·リファレンスはありません。 ソースコードは全部一人で作りました。
