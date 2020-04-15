@@ -3,6 +3,17 @@
 
 <hr>
 
+reference
+--------
+
+理論 : https://www.youtube.com/watch?v=D83fOfUs6Fg
+モチーフ : https://www.youtube.com/watch?v=pMRyXcxeic4, https://www.youtube.com/watch?v=bcf_UEe1bY4
+
+ソースコード·リファレンスはありません。 ソースコードは全部一人で作りました。
+<hr/>
+
+<hr>
+
 遺伝子の突然変異とランダム生成を基に、  
 ====================
 優秀な遺伝子を増やしていく形式のアルゴリズムでオリジナルイメージに似たイメージを生成。
